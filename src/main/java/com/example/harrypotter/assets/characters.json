@@ -1,0 +1,80 @@
+[
+  {
+    "displayName": "Harry Potter",
+    "description": "Harry Potter is probably one of the bravest characters to ever exist in the history of children's literature. Despite being brought up in a non-magic family for a major period of his early life, Harry went on to defeat one of the strongest dark wizards to ever have lived.",
+    "developerName": "Aggrobot",
+    "displayIcon": "https://ik.imagekit.io/hpapi/harry.jpg"
+  },
+  {
+    "displayName": "Hermione Granger",
+    "description": "",
+    "developerName": "BountyHunter",
+    "displayIcon": "https://ik.imagekit.io/hpapi/hermione.jpeg"
+  },
+  {
+    "displayName": "Ron Weasley",
+    "description": "The bionic Swede Breach fires powerful, targeted kinetic blasts to aggressively clear a path through enemy ground. The damage and disruption he inflicts ensures no fight is ever fair.",
+    "developerName": "Breach",
+    "displayIcon": "https://ik.imagekit.io/hpapi/ron.jpg"
+  },
+  {
+    "displayName": "Draco Malfoy",
+    "description": "Norwegian operative Deadlock deploys an array of cutting-edge nanowire to secure the battlefield from even the most lethal assault. No one escapes her vigilant watch, nor survives her unyielding ferocity.",
+    "developerName": "Cable",
+    "displayIcon": "https://ik.imagekit.io/hpapi/draco.jpg"
+  },
+  {
+    "displayName": "Minerva McGonagall",
+    "description": "Raze explodes out of Brazil with her big personality and big guns. With her blunt-force-trauma playstyle, she excels at flushing entrenched enemies and clearing tight spaces with a generous dose of \"boom.\"",
+    "developerName": "Clay",
+    "displayIcon": "https://ik.imagekit.io/hpapi/mcgonagall.jpg"
+  },
+  {
+    "displayName": "Minerva McGonagall",
+    "description": "Well-dressed and well-armed, French weapons designer Chamber expels aggressors with deadly precision. He leverages his custom arsenal to hold the line and pick off enemies from afar, with a contingency built for every plan.",
+    "developerName": "Deadeye",
+    "displayIcon": "https://ik.imagekit.io/hpapi/mcgonagall.jpg"
+  },
+  {
+    "displayName": "Cedric Diggory",
+    "description": "KAY/O is a machine of war built for a single purpose: neutralizing radiants. His power to Suppress enemy abilities dismantles his opponents' capacity to fight back, securing him and his allies the ultimate edge.",
+    "developerName": "Grenadier",
+    "displayIcon": "https://ik.imagekit.io/hpapi/cedric.png"
+  },
+  {
+    "displayName": "Cho Chang",
+    "description": "Hailing from Australia, Skye and her band of beasts trailblaze the way through hostile territory. With her creations hampering the enemy, and her power to heal others, the team is strongest and safest by Skye's side.",
+    "developerName": "Guide",
+    "displayIcon": "https://ik.imagekit.io/hpapi/cho.jpg"
+  },
+  {
+    "displayName": "Luna Lovegood",
+    "description": "The Moroccan information broker, Cypher is a one-man surveillance network who keeps tabs on the enemy's every move. No secret is safe. No maneuver goes unseen. Cypher is always watching.",
+    "developerName": "Gumshoe",
+    "displayIcon": "https://ik.imagekit.io/hpapi/luna.jpg"
+  },
+  {
+    "displayName": "Arthur Weasley",
+    "description": "Born from the eternal winter of Russia's tundra, Sova tracks, finds, and eliminates enemies with ruthless efficiency and precision. His custom bow and incredible scouting abilities ensure that even if you run, you cannot hide. ",
+    "developerName": "Hunter_NPE",
+    "displayIcon": "https://ik.imagekit.io/hpapi/arthur.jpg"
+  },
+  {
+    "displayName": "Sirius Black",
+    "description": "The genius of Germany, Killjoy effortlessly secures key battlefield positions with her arsenal of inventions. If their damage doesn't take her enemies out, the debuff her robots provide will make short work of them.",
+    "developerName": "Killjoy",
+    "displayIcon": "https://ik.imagekit.io/hpapi/sirius.JPG"
+  },
+  {
+    "displayName": "Dolores Umbridge",
+    "description": "Hailing from India’s coast, Harbor storms the field wielding ancient technology with dominion over water. He unleashes frothing rapids and crushing waves to shield his allies, or pummel those that oppose him.",
+    "developerName": "Mage",
+    "displayIcon": "https://ik.imagekit.io/hpapi/umbridge.jpg"
+  },
+  {
+    "displayName": "Gregory Goyle",
+    "description": "The American Chemist, Viper deploys an array of poisonous chemical devices to control the battlefield and choke the enemy's vision. If the toxins don't kill her prey, her mindgames surely will.",
+    "developerName": "Pandemic",
+    "displayIcon": "https://ik.imagekit.io/hpapi/goyle.jpg"
+  }
+]
